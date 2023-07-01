@@ -50,11 +50,11 @@ bgInteractor.observerFor(ImgurSearchTask::class.java)
 			.subscribe()
 ```
 ## Work experience
-* 2021-... Android developer "Drom" 
+* 2021-... Android developer "Drom".
 ## Education
-* 2018-2021 Tomsk College of Information Technologies 
-* 2022-2026 Tomsk State University of Control Systems and Radio Electronics 
-* Udemy Android Multithreading Masterclass 
+* 2018-2021 Tomsk College of Information Technologies.
+* 2022-2026 Tomsk State University of Control Systems and Radio Electronics.
+* Udemy Android Multithreading Masterclass.
 ## Languages
 * English - B1-B2. I have been taking English language improvement courses for a month now.
 * Russian - Native.
